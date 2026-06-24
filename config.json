@@ -1,0 +1,28 @@
+{
+  "allowedRoleId": "1519229633336184863",
+  "clientId": "1300714209184841809",
+  "guildId": "1273263917157716038",
+  "transcriptChannelId": "1514760826261733557",
+  "targetChannelId": "1514760829688610896",
+  "ticketEmbed": {
+    "title": "Create Ticket",
+    "description": "حياك الله لفتح تكت اضفط علي الي تحت",
+    "color": "#a4c8fd"
+  },
+  "ticketTypes": [
+    {
+      "name": "1",
+      "description": ".لشراء",
+      "categoryId": "1518962150008422431",
+      "emoji": "<:code:1296870102175846410>",
+      "allowedCategoryRoleId": "1501106425936613396"
+    },
+    {
+      "name": "استفسار عام",
+      "description": "لطرح الأسئلة العامة.",
+      "categoryId": "1303990330357579777",
+      "emoji": "❓",
+      "allowedCategoryRoleId": "1305137147212206181"
+    }
+  ]
+}
